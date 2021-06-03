@@ -1,0 +1,524 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Proposals for a national bank setting forth how three millions of pounds may be raised for the support of the charge of the war. How the mint may be supplied with three millions of gold and silver coin. How the present clipp'd mony may be exchanged without any farther loss to the nation. How the cash of the nation may be increased six millions of pounds in eight months time. How the expence of the war abroad, may be supplied without draining us of our cash.</title>
+         </titleStmt>
+         <extent>Approx. 45KB of XML-encoded text transcribed from 27 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A56028</idno><idno type="EEBO-CITATION">99826206</idno>
+  <idno type="VID">30602</idno>
+  <idno type="EEBO-PROQUEST">2240894175</idno>
+  
+            <idno type="STC">Wing P3724</idno>
+            <idno type="STC">ESTC R213961</idno>
+            <idno type="PROQUEST">99826206</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99826206e"/>
+            <note>(EEBO-TCP ; phase 2, no. A56028)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 30602)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 1799:21)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Proposals for a national bank setting forth how three millions of pounds may be raised for the support of the charge of the war. How the mint may be supplied with three millions of gold and silver coin. How the present clipp'd mony may be exchanged without any farther loss to the nation. How the cash of the nation may be increased six millions of pounds in eight months time. How the expence of the war abroad, may be supplied without draining us of our cash.</title>
+               </titleStmt>
+               <extent>[4], 48 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Richard Cumberland, at the Angel in St. Paul's Church-Yard,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1697.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Cf.  Lpro copy of this which has the words "To which is added, a compleat list of all the books lately published concerning the coin" at end of title.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Grand Alliance, War of the, 1689-1697 --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  William and Mary, 1689-1702 --  Finance --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Olivia Bottum </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="half_title">
+            <pb facs="tcp:30602:1"/>
+            <p>PROPOSALS FOR A <hi>National Bank.</hi>
+            </p>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:30602:2"/>
+            <pb facs="tcp:30602:2"/>
+            <p>PROPOSALS FOR A National Bank: SETTING FORTH How three Millions of Pounds may be raised for the Support of the Charge of the War.</p>
+            <p>How the Mint may be supplied with three Millions of Gold and Silver Coin.</p>
+            <p>How the present Clipp'd Mony may be Exchanged without any farther Loss to the Nation.</p>
+            <p>How the Cash of the Nation may be in<g ref="char:EOLhyphen"/>creased Six Millions of Pounds in eight Months Time.</p>
+            <p>How the Expence of the War abroad, may be supplied without draining us of our Cash.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Richard Cumberland,</hi> at the <hi>Angel</hi> in S. <hi>Paul</hi>'s Church-Yard, 1697.</p>
+         </div>
+      </front>
+      <body>
+         <div type="proposals">
+            <pb facs="tcp:30602:3"/>
+            <pb n="1" facs="tcp:30602:3"/>
+            <head>PROPOSALS FOR A <hi>National Bank.</hi>
+            </head>
+            <p>THAT a Fund of Five Hundred Seventy Five Thousand Pounds a Year, be setled for six Years, for the proposed Bank, which will be Three Millions Four Hundred and Fifty Thou<g ref="char:EOLhyphen"/>sand Pounds.</p>
+            <pb n="2" facs="tcp:30602:4"/>
+            <p> When the said Fund (or Bank) is setled, it will be requisite that an Incouragement of Fifteen <hi>per Cent.</hi> may be given unto all Persons that shall bring or carry into the <hi>Mint</hi> any wrought Plate or Gold, (or Clipp'd-Mony) that doth or may appear to have been made before the 24th of <hi>June,</hi> 1696. And that no melted Silver and Gold have the Benefit of the said al<g ref="char:EOLhyphen"/>lowance of Fifteen <hi>per Cent.</hi> but what shall appear upon Oath given, (by one or more credible Persons) that the same was not the Clippings or Coin of this King<g ref="char:EOLhyphen"/>dom, since the said 24th of <hi>June,</hi> 1696.</p>
+            <p>Then, That the Mint be impowred and obliged weekly, for fifteen Weeks succes<g ref="char:EOLhyphen"/>sively, to receive in wrought Plate and Gold, and old Clipp'd-Mony to the Va<g ref="char:EOLhyphen"/>lue of One hundred thousand Pounds, and to pay for the same ready Mony: But should not receive in more than the Value of one Million and a half in Eng<g ref="char:EOLhyphen"/>lish made Plate or Gold, or Clipp'd-Mo<g ref="char:EOLhyphen"/>ny,
+<pb n="3" facs="tcp:30602:4"/>in the whole giving the preference to the Clipp'd Coin for two Months.</p>
+            <p>For whereas, the Encouragement of Fifteen <hi>per Cent.</hi> will put our Merchants, (as well as Foreigners) on the Importati<g ref="char:EOLhyphen"/>on of Foreign Bullion, Coin, and Plate; and that they may not be disappointed, the Mint should be obliged for to receive of them Weekly to the Value of One hundred thousand Pounds, after the first fifteen Weeks, and continue so to do for fifteen Weeks, or until the other Million and half be compleated, paying the Own<g ref="char:EOLhyphen"/>er or Owners thereof ready Mony for the same as they receive it; and preferring those that shall contract with the Lords Commissioners of the Treasury, for any parcel or parcels thereof.</p>
+            <p>As the Bullion, Plate, or Coin, cometh into the Mint, the said three Millions, should be Coined into Guineas, half Gui<g ref="char:EOLhyphen"/>neas, Crowns, half Crowns, Shillings, and Six-penny Pieces, and of the same
+<pb n="4" facs="tcp:30602:5"/>Weight and Allay they are of now, but should be Coined of a different Stamp from the present Mony.</p>
+            <p>Then, That an Act of Parliament may pass, that all such Mony for the term of seven Years, shall be (and go as) current Mony in Payment for double what the said Mony goeth for now, that is, the Guinea for forty four Shillings, the Crown for ten Shillings, the half Crown for five Shillings, the one Shilling for two, the Six-pence for one Shilling, <hi>&amp;c.</hi>
+            </p>
+            <p>By this method, the three Millions so Coined will make six Millions, and three Millions of it pay for the wrought Plate, Bullion or Coin; and leave three Milli<g ref="char:EOLhyphen"/>ons more for the support of the charge of the War.</p>
+            <p>At the end of seven years, all such Mo<g ref="char:EOLhyphen"/>ny should go for the same value it go<g ref="char:EOLhyphen"/>eth for now at present; and those in whose possession it may be in, paid, the
+<pb n="5" facs="tcp:30602:5"/>difference out of the Fund or Bank setled for that purpose, which may be done in the following manner:</p>
+            <p>That at the end of every year, as the Fund cometh into Cash, the said Mony should be Punched, and paid out again un<g ref="char:EOLhyphen"/>to those Persons that shall bring any of the said rais'd Mony, which should be also Punch'd; and, after so punch'd, should go for no more than our present Mony goeth for: So that every Year the said rais'd Mony will decrease as the Fund set<g ref="char:EOLhyphen"/>tled by the Parliament cometh into Cash.</p>
+            <p>By this Method most of the new rais'd Mony will be exchang'd before the seven Years are expir'd.</p>
+            <p>But what may remain unexchang'd the Magistrates in all Cities and Towns for the space of one Month, may be ap<g ref="char:EOLhyphen"/>pointed for to Receive and Punch such Mony as shall be brought them; and when so Punch'd, return the same to
+<pb n="6" facs="tcp:30602:6"/>the Owner or Owners, and impowred to give their Bill or Bills for the other Moity on the Officers of the Fund or on the Bank of <hi>England</hi> in Case the Parlia<g ref="char:EOLhyphen"/>ment shall think fit to lodge it there.</p>
+            <p>That all Monies already Coined go at the same Value they now at present go at, and by Act of Parliament made a severe Penalty for any Person to make any di<g ref="char:EOLhyphen"/>stinction between the Old and New Coin in their Bargains Receipts and Payments.</p>
+            <p>That no more than the Amount of the Fund settled by the Parliament be Coined of the new stamp'd Mony, but no Ob<g ref="char:EOLhyphen"/>struction put to the Coining any of the present Mony.</p>
+            <p>Having set forth the Proposal for a true National Bank, I shall proceed in the next place for to answer those Objections that may arise from the same.</p>
+            <div type="objection">
+               <pb n="7" facs="tcp:30602:6"/>
+               <head>OBJECTION.</head>
+               <p>
+                  <hi>Allowing you to have made good in the foregoing Proposal, the four first Articles in your Title Page,</hi> viz.</p>
+               <list>
+                  <item>That three Millions may be raised there<g ref="char:EOLhyphen"/>by for the support of the War.</item>
+                  <item>That the Mint may be suppli'd with three Millions of Gold and Silver.</item>
+                  <item>That the present Clipp'd Mony may be Exchanged without further loss.</item>
+                  <item>That the Cash of the Nation may be Extended Six Millions.</item>
+               </list>
+               <p>
+                  <hi>Yet I do not foresee how the Expence of the War abroad can be supplied without the drain<g ref="char:EOLhyphen"/>ing us of our Cash, (as you propose by your Fifth Article in your Title Page) for I can<g ref="char:EOLhyphen"/>not believe that Foreigners will ever receive our Twenty two Shillings for Forty four Shil<g ref="char:EOLhyphen"/>lings, and our five Shillings for ten Shillings, or our two Shillings and Six-pence for five
+<pb n="8" facs="tcp:30602:7"/>Shillings</hi> &amp;c. <hi>As you propose it should pass for, and I think we had a sufficient demonstra<g ref="char:EOLhyphen"/>tion thereof when our Guineas went at Thirty Shillings each.</hi>
+               </p>
+            </div>
+            <div type="answer">
+               <head>ANSWER.</head>
+               <p>I cannot but believe that our Mony being raised for Seven Years only by an Act of Parliament, and a good Fund set<g ref="char:EOLhyphen"/>led for the payment of the same at the Ex<g ref="char:EOLhyphen"/>piration thereof, will undoubtedly find as good Credit abroad as any private Bill of Exchange or Bank Note, being said, Mony doth Intitle them that have it to the other Moity of the Value, and will be as Valuable here in <hi>England</hi> (for the purchasing ought) as our present Mony; therefore I think it cannot be presumed but that it will be as Current within a small matter to the Value put on it here.</p>
+               <p>For can any reasonable Man imagine that such new Coin so setled by Act of
+<pb n="9" facs="tcp:30602:7"/>Parliament should pass abroad for no more than the Value of Silver in it; when every Year here in <hi>England</hi> they go making good the over-value set on it?</p>
+               <p>I say if they can but Imagine such a Consequence from it, let them but consi<g ref="char:EOLhyphen"/>der what the purchasers of such Mony a<g ref="char:EOLhyphen"/>broad will gain thereby, and then I do pre<g ref="char:EOLhyphen"/>sume they will allow the demand, for it would occasion the raising it, above that Value, and even to the Value in <hi>England,</hi> unless some allowance made for the Charge and Hazard of Importing it to us again.</p>
+               <p>I will suppose the Case thus, a Merchant in <hi>Holland</hi> hath occasion for to purchase Goods in <hi>England,</hi> and would remit Silver for the procuring of them; if he can but buy our Coin there at two <hi>per. Cent.</hi> un<g ref="char:EOLhyphen"/>der the Value put on it here, he will un<g ref="char:EOLhyphen"/>doubtedly do it, being it will be so much gain to him more than if he had sent the like Value in Bullion, after the Mint
+<pb n="10" facs="tcp:30602:8"/>hath received in the quantity proposed to be Coined.</p>
+               <p>Again this further reason doth Con<g ref="char:EOLhyphen"/>vince me that our Mony abroad will go for more than the Value in Silver in it, since if it were to be purchased so, those that could do it, and did but keep it in their Coffers (without imploying it) if laid up the First year, would yeild above Fourteen <hi>per Cent.</hi> Interest. If the Second above Sixteen <hi>per Cent.</hi> If the Third Year, Twenty <hi>per Cent.</hi> If the Fourth Year, Twenty-five <hi>per Cent.</hi> If the Fifth Year, Thirty-three and one third <hi>per Cent.</hi> If the Sixth Year, they make Fifty <hi>per Cent.</hi> Interest. And if the Seventh Year, they make <hi>Cent per Cent.</hi> This very advance would give it a greater Value. And I have always found that the Value put on any one Commodity in one Country hath given it a proportionable Value in ano<g ref="char:EOLhyphen"/>ther (not that its so in Substance) but because it will really produce so much there.</p>
+               <pb n="11" facs="tcp:30602:8"/>
+               <p> As for Instance, should our Drapery be risen in <hi>Holland,</hi> it would occasion a proportionable rise here, being the propri<g ref="char:EOLhyphen"/>etors of it here would make so much of them if they sent them thither; and so it will stand with our new raised Coin a<g ref="char:EOLhyphen"/>broad.</p>
+            </div>
+            <div type="objection">
+               <head>OBJECTION.</head>
+               <p>
+                  <hi>But a particular Manufactory, and Silver and Gold, is of a different Nature: Because the latter is become an Ʋniversal Commodity, and therefore when supplies thereof may be had cheaper from other parts, it will have no more than the Ʋniversal Value put on it.</hi>
+               </p>
+            </div>
+            <div type="answer">
+               <head>ANSWER.</head>
+               <p>That our Mony so Coined and raised by Act of Parliament, will and ought to be esteemed as a particular Commodity
+<pb n="12" facs="tcp:30602:9"/>of our own product, since it is so, from the Stamp and the Authority by which it is done, together with the security given for the making of the same good, at the expiration of Seven Years.</p>
+               <p>But for the giving a greater reputation abroad to our said Mony, and making it more Current,</p>
+               <p>A Register may be kept of all such Mo<g ref="char:EOLhyphen"/>ny Exported by the Officers of the Cu<g ref="char:EOLhyphen"/>stom-house, and Factors abroad appointed to receive in such Mony again as shall be so Exported, and give their Bill or Bills, for the Value on the Bank, payable in two Months time, in which time the same Mony so received beyond Sea may be brought over in Specie to pay the said Bills.</p>
+               <p>That the Factors or Agents abroad should not Exchange more than they have advice from <hi>England</hi> to have been Exported by the Register of the Custom<g ref="char:EOLhyphen"/>house, unless Four thousand Pounds a
+<pb n="13" facs="tcp:30602:9"/>Month may be thought convenient for them to Exchange more for what Passen<g ref="char:EOLhyphen"/>gers...... and Travellers may carry out and cannot be Registred.</p>
+               <p>One half <hi>per Cent.</hi> abroad and one half <hi>per Cent.</hi> allowed here, will maintain that Charge and the Persons so imployed ly<g ref="char:EOLhyphen"/>able to any loss by what they receive that is not good and Standard Mony</p>
+               <p>But let us a little consider the Conse<g ref="char:EOLhyphen"/>quence in case as you surmise, Foreig<g ref="char:EOLhyphen"/>ners should not receive our Mony at the Value set on it by Act of Parliament.</p>
+               <p>Why then you may be sure in such a case our said Mony will not be Exported, and if we are the Debtors on the Ballance of Trade (for the payment of the same) our Merchants will rather Export Bullion for the satisfying of such Debts.</p>
+               <p>Because with five Pounds worth of the said new Mony they may purchase as
+<pb n="14" facs="tcp:30602:10"/>much wrought Plate, Foreign Coin, or Bullion here (or more) than is in five Pounds of our new Current Mony, where<g ref="char:EOLhyphen"/>by the new Mony will answer to all In<g ref="char:EOLhyphen"/>tents and Purposes, as if it had the full Weight.</p>
+               <p>Now until the Ballance of Trade is in our favour, our present Mony Plate and Bullion will be lyable to be Exported, and it is better our Plate and Bullion should then our Coin, being the latter is of great<g ref="char:EOLhyphen"/>er prejudice to our Trade, which will sink as our Coin doth, and Mony being the Engine by which our Trade is carried on, I cannot yet foresee but the Method pro<g ref="char:EOLhyphen"/>posed will much augment it.</p>
+            </div>
+            <div type="objection">
+               <head>OBJECTION.</head>
+               <p>
+                  <hi>But I will presume that the Bullion or Plate that may be Imported (or that we have in our Kingdom) may not be sufficient to pay the Ballance of our Trade, when we shall have
+<pb n="15" facs="tcp:30602:10"/>Increased that Ballance one Million and a half from the Incouragement, you do propose to give to those that shall Import to us any Foreign Plate, Coin or Bullion.</hi>
+               </p>
+            </div>
+            <div type="answer">
+               <head>ANSWER.</head>
+               <p>I cannot foresee how we can Increase our Debt on the Ballance of Trade from the Incouragement that may be given to the Importation of Bullion; for those that may Import to us Bullion (from the Incouragement given) will not Import it to Export it again in Bullion, being they will be losers thereby: And therefore undoubtedly the returns of such Plate or Bullion will be in the Manufactory of our Kingdom, whereby we shall not Increase our Debt, but our Trade.</p>
+            </div>
+            <div type="objection">
+               <head>OBJECTION.</head>
+               <p>
+                  <hi>But the great Value you propose to have put on our Coin, will greatly Incourage the
+<pb n="16" facs="tcp:30602:11"/>Counterfeiting of it, from the profit they'l make thereby that do it.</hi>
+               </p>
+               <p>
+                  <hi>And supposing they only Counterfeit the Stamp (of the new raised Mony) and make each piece of Standard Gold and Silver, it will then be easy in such Case to put off the same with<g ref="char:EOLhyphen"/>out Discovery, and yet the profit will be greater than those have that now practice it; so hereby it will lay a Temptation on Men thereto, and bring many to an untimely End.</hi>
+               </p>
+               <p>
+                  <hi>Again, if it be Counterfeited beyond Sea, How shall the Agents or Factors that Change the said Mony be able for to distinguish the Counterfiet from the real Coin, and all such Mony that is so Counterfeited will be a loss to the Nation.</hi>
+               </p>
+            </div>
+            <div type="answer">
+               <head>ANSWER.</head>
+               <p>I cannot pretend, or can I propose any method whereby to prevent the Coun<g ref="char:EOLhyphen"/>terfeiting of the Coin, or hath any way
+<pb n="17" facs="tcp:30602:11"/>hitherto been found out by any Nation, for to remedy the same; since such as practise it will run the hazard of the Corporal Punishment that may be infli<g ref="char:EOLhyphen"/>cted on them for so doing.</p>
+               <p>But in Answer to the Objection you make, in respect to the Counterfeiting the proposed new Coin; I desire you would but consider the Conveniencies that attend this Proposal, with the Inconveni<g ref="char:EOLhyphen"/>ence, or weigh the loss with the gain which the Nation may reap by the same, and you will find the latter to over Bal<g ref="char:EOLhyphen"/>lance the former, which is what I shall indeavour to prove and give by way of an Answer to that part of your Object<g ref="char:EOLhyphen"/>on.</p>
+               <p>And First, Though it be impossible (or can it be imagined) that in seven Years Four Millions of Mony should be Coun<g ref="char:EOLhyphen"/>terfeited; yet allowing the same, the Na<g ref="char:EOLhyphen"/>tion cannot be losers by this Proposal.</p>
+               <pb n="18" facs="tcp:30602:12"/>
+               <p> For Four Millions of Mony so Coun<g ref="char:EOLhyphen"/>terfeited of real Standard Gold and Sil<g ref="char:EOLhyphen"/>ver, would be but two Millions loss; so that the Nation will be more gainers, if these Proposals shall be thought fit to be put in practice, as for Instance.</p>
+               <p>
+                  <table>
+                     <row>
+                        <cell role="label"> </cell>
+                        <cell role="label">
+                           <hi>l.</hi>
+                        </cell>
+                        <cell role="label">
+                           <hi>s.</hi>
+                        </cell>
+                        <cell role="label">
+                           <hi>d.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>Interest upon Interest for Seven years of Three Millions of Pounds, at 8 <hi>per Cent. per Annum.</hi>
+                        </cell>
+                        <cell>2140000</cell>
+                        <cell>0</cell>
+                        <cell>0</cell>
+                     </row>
+                     <row>
+                        <cell>The Charges of Col<g ref="char:EOLhyphen"/>lecting Three Millions, and the Officers Salla<g ref="char:EOLhyphen"/>ries at Twelve-pence the Pound.</cell>
+                        <cell>150000</cell>
+                        <cell>0</cell>
+                        <cell>0</cell>
+                     </row>
+                     <row>
+                        <cell>Computing Five hun<g ref="char:EOLhyphen"/>dred thousand Pounds of Clipp'd Mony that may be exchanged at Fifteen <hi>per Cent.</hi>
+                        </cell>
+                        <cell>75000</cell>
+                        <cell>0</cell>
+                        <cell>0</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>2365000</cell>
+                        <cell>0</cell>
+                        <cell>0</cell>
+                     </row>
+                  </table>
+               </p>
+               <pb n="19" facs="tcp:30602:12"/>
+               <p> For it cannot be imagined, under the present circumstances of our Nation in re<g ref="char:EOLhyphen"/>lation to its Coin, that it should be possible for to raise Three Millions in one Year; and more especially if the Land-Tax be continued, and considering what others are in Force. Therefore for the ease of the People, I presume it will be concluded, that settling a Fund will be the most conve<g ref="char:EOLhyphen"/>nient way, and for to pay the Interest of such Mony as may be lent there<g ref="char:EOLhyphen"/>on.</p>
+               <p>And if so, the very Interest and Char<g ref="char:EOLhyphen"/>ges on Three Millions of Mony so lent, will amount in seven Years unto Two Millions, Two Hundred and Ninety Thousand Pounds; then less than Five Hundred Thousand Pounds cannot be computed of the old Clipp'd and worn Mony, which is not now passible, and would cost the Nation to change (any other way) at least Seventy five thousand Pounds, and I reckon the Exchange of
+<pb n="20" facs="tcp:30602:13"/>the said Mony in the method I propose no Charge to the Nation, since were there not any Mony to Exchange, it would be found very requisite for to give the Fifteen <hi>per Cent.</hi> Incouragement for the bringing in Plate and Bullion to be Coined.</p>
+               <p>So that the Advantages arising from these Proposals are,</p>
+               <p>That Three Millions of Pounds will be raised for the support of the War in Specie in eight Months Time, suppos<g ref="char:EOLhyphen"/>ing the Mint to be able to Coin so much.</p>
+               <p>That the said Three Millions so rais<g ref="char:EOLhyphen"/>ed, will be but little more than the very Interest of the Mony, and yet the Prin<g ref="char:EOLhyphen"/>ciple in seven Years made good.</p>
+               <p>Again, Three Millions may be given for the Charge of the War; and yet we shall not have the less to carry on Trade.</p>
+               <pb n="21" facs="tcp:30602:13"/>
+               <p> Again, Two Millions Three Hundred Sixty Five Thousand Pounds, saved the Nation by this method, which any o<g ref="char:EOLhyphen"/>ther way the Interest and Charges of so much (for so long a time) would cost.</p>
+               <p>Again, The Species of Mony hereby, will be augmented Six Millions, where<g ref="char:EOLhyphen"/>by the Nation will be better able to pay their Taxes, (both those already laid, as well as those that may be) the Tenants their Land-lords, the Bank and Bankers their obligations, the Merchants and Tradesmen to carry on Trade, which will both Inrich our Nation, and In<g ref="char:EOLhyphen"/>crease his Majesties Revenue.</p>
+               <p>By this Bank there is no time requir<g ref="char:EOLhyphen"/>ed or charge created for voluntary Sub<g ref="char:EOLhyphen"/>scriptions, or any probability of the fail<g ref="char:EOLhyphen"/>ing of the same proposed to be rais<g ref="char:EOLhyphen"/>ed.</p>
+               <p>Again, This Bank will be general, and
+<pb n="22" facs="tcp:30602:14"/>not one that hath Six-pence in the World, but will be concerned in it, therefore it will be every ones interest to maintain the Reputation thereof; and no endeavours will be used to Destroy it, as hath been done (by those of the opposite Interest) to the Bank of <hi>England.</hi>
+               </p>
+               <p>By this proposed method, we do cer<g ref="char:EOLhyphen"/>tainly secure so much Cash in the Na<g ref="char:EOLhyphen"/>tion as may be Coined of it, which cur<g ref="char:EOLhyphen"/>rency of Tallies, Bills and Notes, may otherwise drain us of; and unless we preserve our Seed, it will be in vain for to imagine we should hereafter have any increase more than the proportion we have of it.</p>
+               <p>Now as to what Mony may be Coun<g ref="char:EOLhyphen"/>terfeited in <hi>England,</hi> it cannot be pre<g ref="char:EOLhyphen"/>sumed it will be much, for since our Mo<g ref="char:EOLhyphen"/>ny hath been Called in after many years Currency the Counterfeit Mony is not Computed in Gold and Silver for to Amount to Twenty five thousand Pounds;
+<pb n="23" facs="tcp:30602:14"/>and such Mony which is of a false Coin, those that receive the same (and could not put it off again) have with reason been liable to the loss, the Nation never thinking themselves to be liable to pay for such Mens Ignorance.</p>
+               <p>And I cannot think, that more will be Counterfeited, though made of real Standard Gold and Silver, since few that have practised that Trade have been dis<g ref="char:EOLhyphen"/>covered by the passing the same away, but by the Mill and Implements that is required to Coin with, and the informa<g ref="char:EOLhyphen"/>tions of their working at it, of which still they run the same hazard; and when the Mony is so raised, the plenty there<g ref="char:EOLhyphen"/>of will take off the necessity that indu<g ref="char:EOLhyphen"/>ced many to undertake it.</p>
+               <p>And whatever Mony may be Counter<g ref="char:EOLhyphen"/>feited within the Kingdom can be no loss to it in the general, only what may be Im<g ref="char:EOLhyphen"/>posed on us beyond Sea, which I will in the next place consider.</p>
+               <pb n="24" facs="tcp:30602:15"/>
+               <p> That having already proposed a Regist<g ref="char:EOLhyphen"/>er to be kept in <hi>England</hi> of all Mony Ex<g ref="char:EOLhyphen"/>ported, and that the Factors or Agents a<g ref="char:EOLhyphen"/>broad should Exchange no more than what may be so Registred (unless Four thousand Pounds a Month for what Tra<g ref="char:EOLhyphen"/>vellers, Soldiers or Seamen may carry out be also allowed) hereby there will with permission be no more Imported than Ex<g ref="char:EOLhyphen"/>ported.</p>
+               <p>And for the preventing the secret Im<g ref="char:EOLhyphen"/>portation of any more of the said Mony, that may be so Stampt and presumed to be Counterfeited, it will be necessary that all Mony that is Imported may be Inspected into by the Officers of the Cu<g ref="char:EOLhyphen"/>stom-house, and none landed but by a Warrant from them for so doing.</p>
+               <p>That it be made Treason for any Ma<g ref="char:EOLhyphen"/>ster of a Ship knowingly to bring over any of the said Mony, or any Factor here for to receive it and a reward to either of them
+<pb n="25" facs="tcp:30602:15"/>(or any one else that shall discover such Mony,) of the Moity thereof: Now by these Mothods none of any substance will run these hazards, and those that do it out of mere necessity cannot have stock to Import much, and therefore the loss the Nation may hereby sustain, cannot be so great as the advantages Considerable.</p>
+            </div>
+            <div type="objection">
+               <head>OBJECTION.</head>
+               <p>
+                  <hi>But may not the Incouragement of Fifteen</hi> per Cent. <hi>you propose for the bringing in Plate and Bullion, occasion the melting down our present Mony to dispose it so?</hi>
+               </p>
+            </div>
+            <div type="answer">
+               <head>ANSWER.</head>
+               <p>If they only melt it down, I have in my Proposal in the first Page provided against any such melted Plate receiving the benefit of the Fifteen <hi>per Cent.</hi> and it cannot be imagined that they can afford
+<pb n="26" facs="tcp:30602:16"/>to work such up into wrought Plate and get by it, then they have but Fifteen Weeks time to do it in, being after that no Fifteen <hi>per Cent.</hi> will be allowed to any but the Foreign Plate Bullion or Coin that may be Imported.</p>
+            </div>
+            <div type="objection">
+               <head>OBJECTION.</head>
+               <p>
+                  <hi>But if we have two Sorts of Mony, and they of a different weight, it will occasion the Ex<g ref="char:EOLhyphen"/>portation or Hoarding up of the present Cur<g ref="char:EOLhyphen"/>rent Coin.</hi>
+               </p>
+            </div>
+            <div type="answer">
+               <head>ANSWER.</head>
+               <p>I cannot imagine that the present Mo<g ref="char:EOLhyphen"/>ny will be Exported when the new will be of equal Value abroad and here, you may purchase as much Silver in weight with it, as is in the old Mony, and with permission Export either; and if they should Export the old Mony they will run
+<pb n="27" facs="tcp:30602:16"/>hazard to lose it and being punished ac<g ref="char:EOLhyphen"/>cording to Law.</p>
+               <p>Then as to the Hoarding up of such Mony as is now Current, you must pro<g ref="char:EOLhyphen"/>pose an Advantage to such as do it, or else it cannot be imagined they will.</p>
+               <p>A Disadvantage to such is very appa<g ref="char:EOLhyphen"/>rent, that thereby they will lose the In<g ref="char:EOLhyphen"/>terest or Improvement of such Mony, which at all times will be of no more Va<g ref="char:EOLhyphen"/>lue than the other, and in a few Years of like weight also.</p>
+            </div>
+            <div type="objection">
+               <head>OBJECTION.</head>
+               <p>
+                  <hi>But the Incouragement of Fifteen</hi> per Cent. <hi>will also Incourage the Clipping of our old Coin, before they carry it to the Mint to be Exchanged, and what remedy have you to pre<g ref="char:EOLhyphen"/>vent such as will do it?</hi>
+               </p>
+            </div>
+            <div type="answer">
+               <pb n="28" facs="tcp:30602:17"/>
+               <head>ANSWER.</head>
+               <p>The remedy will be for to allow the Fifteen <hi>per Cent.</hi> on the Weight of what is carried into the Mint, and not on the Tale of the Mony; so let them Clip what they please, they can make no Ad<g ref="char:EOLhyphen"/>vantage by it; for as the Weight will be less, so proportionably will be the Ad<g ref="char:EOLhyphen"/>vantage thereon.</p>
+            </div>
+            <div type="question">
+               <head>QUERE.</head>
+               <p>
+                  <hi>But why may not the Mony that is al<g ref="char:EOLhyphen"/>ready Coined and Current, be raised as well as what shall or may be Coined?</hi>
+               </p>
+            </div>
+            <div type="answer">
+               <head>ANSWER.</head>
+               <p>First, If you advance the Mony that is already Coined and Current, it will
+<pb n="29" facs="tcp:30602:17"/>be impossible therefrom to recover so much (for the support of the War) as it may be raised to, unless it be called in and new Coined.</p>
+               <p>Secondly, While it may be so Coin<g ref="char:EOLhyphen"/>ing, (besides the Charge thereof) we should have a stop put to our Trade, and it would plunge us into greater in<g ref="char:EOLhyphen"/>conveniencies than we have already la<g ref="char:EOLhyphen"/>boured under, in regard our Paper Credits are at a stand, and like to be until our Coin is more plenty.</p>
+            </div>
+            <div type="question">
+               <head>QUERE.</head>
+               <p>
+                  <hi>But why may not the Mony that is now Coined and Current, and what may hereafter be Coined, be only raised twenty</hi> per Cent. <hi>for the term of seven Years, (as you propose) and the Owners thereof have the Advantage, and the Importers of Foreign Bullion, Plate, or Coin, which will still be a larger incou<g ref="char:EOLhyphen"/>ragement for the effecting what you propose,
+<pb n="30" facs="tcp:30602:18"/>and then all our Mony will be of a propor<g ref="char:EOLhyphen"/>tionable Value.</hi>
+               </p>
+               <p>
+                  <hi>And although the publick Occasions here<g ref="char:EOLhyphen"/>by will not be supplyed, yet it will be more agreeable to the People, and in every other respect answer the end you first proposed.</hi>
+               </p>
+            </div>
+            <div type="answer">
+               <head>ANSWER.</head>
+               <p>The raising our Mony in any other method than I have proposed, is liable to many objections besides those that are generally given against raising our Coin in Denomination; I shall only mention some few.</p>
+               <p>First, If raised for seven Years only, (by the method you propose) it will ne<g ref="char:EOLhyphen"/>ver pass abroad or at home for more than the real Value it may have in Sil<g ref="char:EOLhyphen"/>ver, and what you purchase with the said Mony, will be raised in proporti<g ref="char:EOLhyphen"/>on, so that our Cash nor Trade will not be increased by it.</p>
+               <pb n="31" facs="tcp:30602:18"/>
+               <p> Secondly, It will be of no manner of Advantage to the Nation in general, and only to such particular Persons, who be<g ref="char:EOLhyphen"/>fore such an Advance were Debtors, by any contract made or otherwise, and the Lawyers from the increase of Practice, they would have from the several Dis<g ref="char:EOLhyphen"/>putes that would arise by it.</p>
+               <p>Thirdly, It would create a great con<g ref="char:EOLhyphen"/>fusion in our Trade, till time redu<g ref="char:EOLhyphen"/>ceth it to a method again; and the like will happen at the expiration of the se<g ref="char:EOLhyphen"/>ven Years, when it cometh to be re<g ref="char:EOLhyphen"/>duced to the present Standard, and ob<g ref="char:EOLhyphen"/>lige People for the future to make their contracts for so many Ounces of Silver, instead of Pounds Sterling.</p>
+               <p>But if the Parliament should think that doubling the Value of the Mony that I propose to be Coined of a differ<g ref="char:EOLhyphen"/>ent Stamp, will be too great an Ad<g ref="char:EOLhyphen"/>vance, as thereby incouraging the Coun<g ref="char:EOLhyphen"/>terfeiting, it will lye in their powers to
+<pb n="32" facs="tcp:30602:19"/>raise it in what proportion they please by the same method, and also such Spe<g ref="char:EOLhyphen"/>cies of it as they may think to be the least liable to Counterfeiting; which will be by leaving out the Gold, and only for to Coin Silver of the new Stamp in<g ref="char:EOLhyphen"/>to half Crowns, Shillings, and Six-pen<g ref="char:EOLhyphen"/>ny Pieces.</p>
+               <p>And of the Six-penny Pieces, to be Coined one Million and a half, and to pass for one Shilling; of the Shillings to be Coined one Million, and to pass for two Shillings; of the half Crowns, to be Coined Five hundred thousand Pounds of the present Value, to pass for three Shillings and Four-pence.</p>
+               <p>Thus, still you raise the Summ of three Millions, (to a small matter) for the Charge of the War, and take away the Temptation of Counterfeiting the Valuable Species.</p>
+               <p>And since this proposed Advance of
+<pb n="33" facs="tcp:30602:19"/>our Mony is but <hi>pro tempore,</hi> and secu<g ref="char:EOLhyphen"/>red by a good Fund, it will not Import, one Species being of a more real Value than the other.</p>
+               <p>For I look on the Species of Mony so raised, will serve only as a Note or Tally, which being made Obligatory be<g ref="char:EOLhyphen"/>comes Valuable for so much as it expres<g ref="char:EOLhyphen"/>eth.</p>
+               <p>And this Mony so raised, will serve in the room of Paper-Notes or Obliga<g ref="char:EOLhyphen"/>tions, and be of far more general use, being reduced to a Six-pence, or any o<g ref="char:EOLhyphen"/>ther Summ required in Receipts and Payments, and will have a Currency a<g ref="char:EOLhyphen"/>mongst those that Notes and Tallies would not.</p>
+               <p>And the proposed method cannot be properly said to be by raising the Value of our Coin; no more than any one that may have Sold one Hundred Pounds worth of Goods can say he is not paid
+<pb n="34" facs="tcp:30602:20"/>for them, when he hath received the one Moity in Mony, and the other in a Bankers or Goldsmiths Note, which he may put off again for the Value he re<g ref="char:EOLhyphen"/>ceived it at.</p>
+               <p>Besides, this method proposed answers the several Objections made against the raising our Coin.</p>
+               <p>And with Submission to better Judg<g ref="char:EOLhyphen"/>ments, I cannot but think that this or some other method to increase the Cash of the Nation, is needful for the Advantage thereof in general, although not to such Men as have Sums of Mony by them, who do prey on the necessity of others. And I think it may be proved that by such Men our Mony is already raised Eighteeen <hi>per Cent.</hi> or more; the reasons I offer for it being these.</p>
+               <p>That the Gentlemen concerned in the Bank of <hi>England,</hi> or rather the Bank it self hath not received any such conside<g ref="char:EOLhyphen"/>rable
+<pb n="35" facs="tcp:30602:20"/>loss, whereby to disable them from paying their obligations. But on the con<g ref="char:EOLhyphen"/>trary its very evident that they have mad<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> considerable profit, and that their non<g ref="char:EOLhyphen"/>complyance hath and doth proceed from the general Calamitie of the want of Spe<g ref="char:EOLhyphen"/>cie in the Kingdom, and not from any ill managment in the Government thereof; and the said Bank may be said to be in a far better Condition than when first Founded. But the Species of Mony is really become more Valuable in propor<g ref="char:EOLhyphen"/>tion to the difference between it and a Bank Note.</p>
+               <p>And were it not for the general want of Specie, you might believe they could and would pay their Obligations, since they might do it with Eighteen <hi>per Cent.</hi> rebate, which alone would leave them a very considerable profit.</p>
+               <p>The Bank of <hi>England</hi> was settled when the Clipp'd-Mony was the Current Coin of the Nation. Some time after the Peo<g ref="char:EOLhyphen"/>ple
+<pb n="36" facs="tcp:30602:21"/>being sensible of the necessity there was to regulate the same, and apprehending they might lose thereby, paid their said Clipp'd-Mony into the Bank, which when the Currency of the same was stopped by Proclamation, the Bank was obliged to send the same to the Mint to be Recoined, by which means the said Bank its proba<g ref="char:EOLhyphen"/>ble became Debtor for double the Sum of their first Subscriptions, and it cannot be thought they can, or should be made appear they have received the Sum again in Tale from the Mint.</p>
+               <p>And upon Examination it will be found that the major part of the Gentlemen in the Bank of <hi>England,</hi> are very consi<g ref="char:EOLhyphen"/>derably more concerned in it, than the amount of the Sixty <hi>per Cent.</hi> paid in of their several Subscriptions, and even to answer the whole for those concerned in it, and tho not directly applyed, answers to the same as if they had Actually paid the other Forty <hi>per Cent.</hi> Now to have the said Bank to oblige each Member
+<pb n="37" facs="tcp:30602:21"/>to pay in Forty <hi>per Cent.</hi> in Specie at Eighteen <hi>per Cent.</hi> loss when they have Credit with the Bank for as much, and are willing (would it answer the end) to appropriate the same to the Stock? I say it would be hard for to require from them, and it may be impossible to effect it un<g ref="char:EOLhyphen"/>til we have more Mony in Specie than we have, the want of which alone occa<g ref="char:EOLhyphen"/>tions the allowance of Discount between Bank Notes and Mony, and doth not pro<g ref="char:EOLhyphen"/>ceed from any doubt of the Banks Secu<g ref="char:EOLhyphen"/>rity.</p>
+               <p>For it cannot be imagined that the Bank Notes should one Day be worth only Ten or Twelve <hi>per Cent.</hi> and Two or Three after Eighteen <hi>per Cent.</hi> dis<g ref="char:EOLhyphen"/>count, and then come to twelve again: Therefore I say the Ebbings and Flowings of the same proceed from the necessity that Men have of Specie, and the Extor<g ref="char:EOLhyphen"/>tion of those that have Mony by them who have thereby really raised the Value of it.</p>
+               <pb n="38" facs="tcp:30602:22"/>
+               <p> Another Argument that proveth that Mony in effect is risen in its Value (though not in denomination) is, that whereas on Land security, Mony might be procu<g ref="char:EOLhyphen"/>red at Four and Five <hi>per Cent.</hi> Interest, now on the like security its not to be had at Six or Seven <hi>per Cent.</hi> and I do know that Ten <hi>per Cent.</hi> hath been offered on a Pawn, which is better than Land secu<g ref="char:EOLhyphen"/>rity, and was difficult to get it.</p>
+               <p>And since the Bank and Bankers Notes, when Current might be reckoned to pass for two Millions of Mony, and that we have two Millions less by the calling in of the Clipp'd Coin, and one Million by the falling of Guineas, and probably one Million of Mony Exported, which in all makes Six Millions in one Year, it can<g ref="char:EOLhyphen"/>not be Imagined but the Nation must be sensible of the want of such a Sum.</p>
+               <p>And its believed no Parliamentary Taxes for the future can be paid, unless we
+<pb n="39" facs="tcp:30602:22"/>do increase our Specie; and to increase the same only by calling in our Plate and Coining it, will have this effect.</p>
+               <p>That the same will be Exported also unless we prevent it by raising the Va<g ref="char:EOLhyphen"/>lue and increasing the Species more consi<g ref="char:EOLhyphen"/>derably than our Plate will do.</p>
+               <p>For should we have Peace, its thought the Coining of all the Plate in the King<g ref="char:EOLhyphen"/>dom will not pay what already is owing on Credit, much less leave wherewith to support our Trade, which if not carried on and Incouraged, this Island will soon feel the evil Consequences thereof.</p>
+            </div>
+            <div type="objection">
+               <head>OBJECTION.</head>
+               <p>
+                  <hi>But will not Plate and Bullion be dear<g ref="char:EOLhyphen"/>er by the Incouragement you propose to give of Fifteen</hi> per Cent?</p>
+            </div>
+            <div type="answer">
+               <pb n="40" facs="tcp:30602:23"/>
+               <head>ANSWER.</head>
+               <p>It will not Occasion its being dearer longer than the time limited for the bring<g ref="char:EOLhyphen"/>ing it into the Mint, for then the demand will be over.</p>
+            </div>
+            <div type="objection">
+               <head>OBJECTION.</head>
+               <p>
+                  <hi>But supposing on the Incouragment that may be given, People do not bring in their Plate as you expect from it.</hi>
+               </p>
+            </div>
+            <div type="answer">
+               <head>ANSWER.</head>
+               <p>A Prohibition of the use of it will soon induce them thereto, and the prose<g ref="char:EOLhyphen"/>cution of these Proposals will lye in the Power of our Legislators, who are better able to judge of the Subject on which I have been Treating, and to whom I humbly Commit and Submit the same.</p>
+               <closer>
+                  <dateline>
+                     <date>
+                        <hi>September</hi> the 10th.</date>
+                  </dateline>
+               </closer>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb n="41" facs="tcp:30602:23"/>
+            <head>A compleat Catalogue of all the Books lately Printed concerning the Coin. <hi>Note,</hi> The Letter <hi>A</hi> shews those who have wrote for the Raising the Coin; the Letter <hi>B</hi> the contrary: The <hi>*</hi> those that have performed extraordinary.</head>
+            <p>
+               <hi>A</hi> * 1. A Report containing an Essay for the amendment of the Silver Coin. By Mr. <hi>Lownds,</hi> 8vo, price 1 <hi>s.</hi>
+            </p>
+            <p>
+               <hi>B</hi> 2. Some Remarks on a Report, con<g ref="char:EOLhyphen"/>taining an Essay for the amendment of the Silver Coin. By Mr. <hi>Lownds,</hi> 4<seg rend="sup">to</seg>, price 6 <hi>d.</hi>
+            </p>
+            <p>
+               <hi>B</hi> * 3. The Proposal for the Raising of the Silver Coin of England from 60 pence in the Ounce to 75 pence, consider<g ref="char:EOLhyphen"/>ed, with the consequence thereof, in Ans<g ref="char:EOLhyphen"/>wer to Mr. <hi>Lownds,</hi> 4<seg rend="sup">to</seg>. By <hi>E. B.</hi> Esq price 3 <hi>d.</hi>
+            </p>
+            <pb n="42" facs="tcp:30602:24"/>
+            <p>
+               <hi>B</hi> 4. Objections to Mr. <hi>Lownds</hi>'s Pro<g ref="char:EOLhyphen"/>posal about the amendment of our Coin. 4<seg rend="sup">to</seg> 2 <hi>d.</hi>
+            </p>
+            <p>
+               <hi>B</hi> * 5. Some considerations of the con<g ref="char:EOLhyphen"/>sequence of the Lowering of Interest, and the Raising of the Value of Mony.</p>
+            <p n="5">5. Farther considerations concerning the Raising the Value of Mony, wherein Mr. <hi>Lownds</hi>'s Arguments for it in his Book are particularly Examined.</p>
+            <p>Short observations on a Printed paper, Entituled, <hi>For the Encouraging the Coining of Silver Mony in England; and afterwards for the keeping of it here.</hi> All 3 by Mr. <hi>John Locke,</hi> in 8vo, 3 <hi>s.</hi> 6 <hi>d.</hi>
+            </p>
+            <p>
+               <hi>A</hi> 6. A Discourse of Mony, being an Essay on that Subject, Historically and Politically handled, with Reflections on the present Evil State of the Coin of this Kingdom, and Proposals for a method for the remedy, in a Letter to a Nobleman, <hi>&amp;c.</hi> in 8vo price 2 <hi>s.</hi> 6 <hi>d.</hi>
+            </p>
+            <p>
+               <hi>A</hi> 7. An Essay for Regulating the Coin; wherein also is set forth, 1. How we have lost that import of Plate and Bullion we
+<pb n="43" facs="tcp:30602:24"/>formerly had. 2. What is become of the great quantity of Mony Coined in the Reign of King <hi>Charles</hi> the II. and the pre<g ref="char:EOLhyphen"/>ceeding Reigns. 3. The necessity there is at this time to rectify the present Coin of the Kingdom. 4. By what methods the Charge of calling in the present Mony, and bringing it to a designed Standard may be accomplished. 5. Whether the me<g ref="char:EOLhyphen"/>thod proposed for the advancing our Coin, (and the Bullion of which it is made) may be Convenient or Inconvenient to the Trade of the Nation. The Second Edi<g ref="char:EOLhyphen"/>tion, with an Additional Proposition for the regulating of the Coin. By <hi>A. V.</hi> Merchant, 4<seg rend="sup">to</seg>, price 6 <hi>d.</hi>
+            </p>
+            <p>
+               <hi>B</hi> * 8. The regulating Silver Coin made Practicable and Easie to the Govern<g ref="char:EOLhyphen"/>ment and Subject, humbly submitted to the consideration of both Houses of Parli<g ref="char:EOLhyphen"/>ament. By a Lover of his Country, 8vo, price 1 <hi>s.</hi>
+            </p>
+            <p>
+               <hi>B</hi> * 9. A Discourse of the general No<g ref="char:EOLhyphen"/>tions of Mony, Trade, and Exchanges, as they stand in relation to each other, at<g ref="char:EOLhyphen"/>tempted
+<pb n="44" facs="tcp:30602:25"/>by way of Aphorisms, with a Ltter to a Minister of State farther Ex<g ref="char:EOLhyphen"/>plaining the Aphorisms, and applying them to the Circumstances of the Na<g ref="char:EOLhyphen"/>tion, wherein also some Thoughts are suggested for the remedying of the abuses of our Mony. By Mr. <hi>Clements</hi> Merchant, in 4<seg rend="sup">to</seg>, price 6 <hi>d.</hi>
+            </p>
+            <p>
+               <hi>B</hi> * 10. A Proposal for amending of the Silver Coins of England, and the pos<g ref="char:EOLhyphen"/>sibility of it, without any Charge to the Nation, in two different ways. By Mr. <hi>Neale,</hi> 8vo, 1 <hi>s.</hi>
+            </p>
+            <p>
+               <hi>A</hi> 11. The Alteration of the Coin, with a feasible method to do it, most humbly proposed to the Parliament; to which is Annexed a Projection or Scheme of reaso<g ref="char:EOLhyphen"/>nable Terms for Establishing a Firm and General Peace in <hi>Europe,</hi> 4<seg rend="sup">to</seg>, 1 <hi>s.</hi> By <hi>Tho. Haughton</hi> of <hi>Lime-Street,</hi> Gent.</p>
+            <p n="13">13. The Regulating of the Silver Coin made Easie, by Mr. <hi>Chambrelain.</hi>
+            </p>
+            <p>
+               <hi>A</hi> 14. A Discourse concerning the Coin<g ref="char:EOLhyphen"/>ing the new Mony lighter, in Answer to Mr. <hi>Locks</hi> Consideration about raising the
+<pb n="45" facs="tcp:30602:25"/>Value of Mony. By <hi>Nick. Barbon,</hi> in 12<seg rend="sup">o</seg> price 1 <hi>s.</hi>
+            </p>
+            <p>
+               <hi>B</hi> 15. <hi>Decus et Tutamen,</hi> or our new Mony as new Coined in full Weight and Fineness, proved to be for the Honour, Safe<g ref="char:EOLhyphen"/>ty and Welfare of <hi>England.</hi> Written by way of answer to Sir <hi>Rich. Temple</hi> and Dr. <hi>Barbon:</hi> To which is added an Essay to preserve our new Mony from being Hoarded, Melted Down, Transported or Counterfeited. In Twelves, 6 <hi>d.</hi>
+            </p>
+            <p>
+               <hi>B</hi> * 16. A Letter from an <hi>English</hi> Mer<g ref="char:EOLhyphen"/>chant at <hi>Amsterdam,</hi> to his Friend at <hi>Lon<g ref="char:EOLhyphen"/>don,</hi> concerning the Trade and Coin of <hi>England.</hi> 2 <hi>d.</hi>
+            </p>
+            <p>
+               <hi>B</hi> 17. Sir <hi>Tho. Row</hi>'s Speech at the Coun<g ref="char:EOLhyphen"/>cil Table about the alteration of the Coin, in <hi>July,</hi> 1640. With some Observations thereon. 2 <hi>d.</hi>
+            </p>
+            <p n="18">18. A farther Essay for the amending of the Silver Coin, with the opinion of Mr. <hi>Gerrard de Malynes,</hi> who was an emi<g ref="char:EOLhyphen"/>nent Merchant in the Reign of Q. <hi>Eliza<g ref="char:EOLhyphen"/>beth,</hi> concerning the Standard of <hi>England,</hi> 4to, 6 <hi>d.</hi>
+            </p>
+            <pb n="46" facs="tcp:30602:26"/>
+            <p>
+               <hi>B</hi> 19. A Treatise concerning the Re<g ref="char:EOLhyphen"/>gulation of the Coin of <hi>England,</hi> and how the <hi>East-India</hi> Trade may be preserved and increased. By <hi>Roger Cook</hi> Esq 6 <hi>d.</hi>
+            </p>
+            <p>
+               <hi>B</hi> 20. A Letter to a Member of Par<g ref="char:EOLhyphen"/>liament about the Coin, a Sheet in <hi>Folio.</hi>
+            </p>
+            <p>
+               <hi>B</hi> 21 A Second Letter to a Member of Parliament, a Sheet in <hi>Folio.</hi>
+            </p>
+            <p>
+               <hi>B</hi> 22. Sir <hi>William Petty</hi>'s Quantum<g ref="char:EOLhyphen"/>cunque concerning Mony, 1682. 2 Sheets in 8vo.</p>
+            <p n="23">23. A Discourse upon Coins by <hi>Seignior Barnardo Devanzati,</hi> a Gentleman of <hi>Flo<g ref="char:EOLhyphen"/>rence,</hi> being publickly spoken in the Aca<g ref="char:EOLhyphen"/>demy there in 1588. Translated out of <hi>Italian,</hi> By <hi>John Tolan,</hi> 4<seg rend="sup">to</seg>, 6 <hi>d.</hi>
+            </p>
+            <p n="24">24. An Essay for raising the Silver, and lowering the Gold Coin.</p>
+            <p>
+               <hi>B</hi> * 25. A Dialogue between a Coun<g ref="char:EOLhyphen"/>try Gentleman and a Merchant, concern<g ref="char:EOLhyphen"/>ing the falling of Guineas, wherein the whole Argument relating to our Mony is Answered, in 4<seg rend="sup">to</seg>. By Mr. <hi>Clements</hi> Mer<g ref="char:EOLhyphen"/>chant. 6 <hi>d.</hi>
+            </p>
+            <p>
+               <hi>B</hi> 26. A Word in Season about Guin<g ref="char:EOLhyphen"/>eas, a Sheet.</p>
+            <p n="27">
+               <pb n="47" facs="tcp:30602:26"/> 27. Reasons offered against passing the Act for making good the Clipp'd Mony, and making good the deficiency by Bills, Tickets or a Fund, By <hi>William Chalnet,</hi> a Half-sheet.</p>
+            <p n="28">28. Proposals for the raising the Silver Mony of <hi>England</hi> to its former State. A Half-sheet, By <hi>E. B.</hi> Esq</p>
+            <p>
+               <hi>B</hi> 29. No stoppage of the Silver Coin from being carried out of <hi>England,</hi> by raising the Crown-piece of 5 <hi>s.</hi> to go by Law for 6 <hi>s.</hi> 3 <hi>d.</hi> A Half-sheet.</p>
+            <p n="30">30. Some Questions Answered, relating to the Badness of the now Silver Coin of <hi>England,</hi> A Half-sheet.</p>
+            <p>
+               <hi>B</hi> 31. A Proposal for supplying his Majesty with 1200000, by amending the Coin, and yet preserve the antient Stan<g ref="char:EOLhyphen"/>dard of the Kingdom. By a Gentleman, 4<seg rend="sup">to</seg>, price 6 <hi>d.</hi>
+            </p>
+            <p>
+               <hi>B</hi> 32. A Letter of advice to a Friend, about the Currency of Clipp'd-Mony, wherein all the material Clauses contained in the several Acts made in the 2 last Ses<g ref="char:EOLhyphen"/>sions of Parliament for the Cure of that
+<pb n="48" facs="tcp:30602:27"/>Evil are recited. The Second Edition; to which is added the Declaration of Q. <hi>Eliza<g ref="char:EOLhyphen"/>beth</hi> upon her reforming the Coin, 8vo, 6 <hi>d.</hi>
+            </p>
+            <p>
+               <hi>A</hi> 33. A farther Proposal for amending and setling the Coin. By a Person of Honour, 4<seg rend="sup">to</seg> 2 <hi>d.</hi>
+            </p>
+            <p>
+               <hi>B</hi> 34. Some short Proposals humbly offered to the Consideration of the Parlia<g ref="char:EOLhyphen"/>ment for regulating of the Coin, a Half<g ref="char:EOLhyphen"/>sheet.</p>
+            <p>
+               <hi>B</hi> 35. A Letter from a Friend in <hi>Lon<g ref="char:EOLhyphen"/>don</hi> to one at <hi>Westminster,</hi> proposing some particulars for the Regulating the Coin, a Half-sheet.</p>
+            <p n="36">36. A View of the Universal remedy for all Diseases incident to Coin, with ap<g ref="char:EOLhyphen"/>plication to our present Circumstances, in a Letter to Mr. <hi>Lock.</hi> 8vo, 6 <hi>d.</hi>
+            </p>
+            <p>* 37. Several Assertions proved, in or<g ref="char:EOLhyphen"/>der to Create another Species of Mony than Gold and Silver. <hi>Sept.</hi> 8ht 1696. 8vo, price 1 <hi>s.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:30602:27"/>
+         </div>
+      </back>
+   </text>
+</TEI>
